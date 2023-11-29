@@ -12,3 +12,4 @@ D:\Учеба 50_D disk\GeekBrains\GitHub\DZ3_Sem3_Array\Test01\obj\Debug\net8.0
 D:\Учеба 50_D disk\GeekBrains\GitHub\DZ3_Sem3_Array\Test01\obj\Debug\net8.0\Test01.pdb
 D:\Учеба 50_D disk\GeekBrains\GitHub\DZ3_Sem3_Array\Test01\obj\Debug\net8.0\Test01.genruntimeconfig.cache
 D:\Учеба 50_D disk\GeekBrains\GitHub\DZ3_Sem3_Array\Test01\obj\Debug\net8.0\ref\Test01.dll
+D:\Учеба 50_D disk\GeekBrains\GitHub\DZ3_Sem3_Array\Test01\obj\Debug\net8.0\Test01.sourcelink.json
